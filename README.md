@@ -1,4 +1,4 @@
 # Port
-Enter Python port.py /n
-Enter your IP /n
-Enter your port number  /n
+Enter Python port.py .
+Enter your IP .
+Enter your port number  .
