@@ -1,2 +1,4 @@
 # Port
-For Port scan
+Enter Python port.py
+Enter your IP
+Enter your port number 
